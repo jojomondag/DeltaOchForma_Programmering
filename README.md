@@ -12,3 +12,6 @@ Hur du kan delta
 3.	Diskussion: Använd "Issues"-funktionen för att starta en diskussion kring specifika ämnen eller förslag.
 Slutord
 Även om vi ser stor potential i teknikens roll inom utbildning, betonar vi att den mänskliga faktorn - relationen mellan lärare och elev - alltid kommer att vara central. Låt oss tillsammans skapa en framtid där teknik och tradition går hand i hand i programmeringsundervisningen.
+
+Slutord
+Även om vi ser stor potential i teknikens roll inom utbildning, betonar vi att den mänskliga faktorn - relationen mellan lärare och elev - alltid kommer att vara central. Låt oss tillsammans skapa en framtid där teknik och tradition går hand i hand i programmeringsundervisningen.
